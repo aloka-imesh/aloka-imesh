@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Aloka Imesh 👋
 ### Full-Stack Software Engineer & Hardware Enthusiast
 
 I am a passionate and results-driven Full-Stack Software Engineer who loves bridging the gap between robust backend logic, sleek user interfaces, and hardware automation. From crafting responsive web architectures to programming microcontrollers, I build scalable solutions from scratch.
@@ -9,7 +9,7 @@ I am a passionate and results-driven Full-Stack Software Engineer who loves brid
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 💬 Ask me about **Full-Stack Web Development** or **IoT/Arduino automation**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **alokaik@outlook.com**
 - 💼 Connect with me on [LinkedIn](your-linkedin-link)
 
 ---
